@@ -1,3 +1,3 @@
-# Análise e Projeto de Sistemas
+# Ecomanganês
 
 [Documentação](../../wiki/)
